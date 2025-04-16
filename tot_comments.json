@@ -1,0 +1,96 @@
+{
+  "post": {
+    "id": 1,
+    "user": {
+      "username": "@taleoftails",
+      "avatarUrl": "https://example.com/avatar1.png"
+    },
+    "content": "Signs your dog is getting enough water:\n• Normal drinking: You see them drink regularly throughout the day (around 1 oz per pound of body weight is a general guide).\n• Moist gums: Pink and slippery to the touch.\n• Quick skin tent: Skin on their back snaps back quickly when gently pinched and released.\n• Bright eyes: Not sunken or dull.\n• Normal energy: Not lethargic or weak.\n• Light yellow urine: Not dark or strong-smelling.\n\nIf you're concerned, monitor their water bowl and watch for these signs. If you see signs of dehydration (dry gums, slow skin tent, lethargy), offer water and consult your vet if it doesn’t improve.",
+    "reactions": {
+      "likes": 10,
+      "hearts": 20
+    }
+  },
+  "comments": [
+    {
+      "id": 101,
+      "user": {
+        "username": "@someone",
+        "avatarUrl": "https://example.com/avatar2.png"
+      },
+      "comment": "Thank you! This really was helpful. I have been struggling with my pup not drinking enough water for a long time now.",
+      "likes": 10,
+      "replies": [
+        {
+          "id": 201,
+          "user": {
+            "username": "@someonelese",
+            "avatarUrl": "https://example.com/avatar3.png"
+          },
+          "comment": "Yess same here, maybe try adding some buttermilk to it. It really helps in summers!",
+          "likes": 5
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "user": {
+        "username": "@rachelstu",
+        "avatarUrl": "https://example.com/avatar4.png"
+      },
+      "comment": "My rottie also didn’t drink enough water before, and he looked sick for no reason. We were very worried until our vet told us to monitor his water intake.",
+      "likes": 10,
+      "replies": []
+    },
+    {
+      "id": 103,
+      "user": {
+        "username": "@doglover12",
+        "avatarUrl": "https://example.com/avatar5.png"
+      },
+      "comment": "I never knew about the skin tent thing. That’s such a useful tip. Thanks a lot!",
+      "likes": 8,
+      "replies": [
+        {
+          "id": 202,
+          "user": {
+            "username": "@vetmom",
+            "avatarUrl": "https://example.com/avatar6.png"
+          },
+          "comment": "Yep! It’s one of the fastest ways to check dehydration in dogs. Glad it helped!",
+          "likes": 3
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "user": {
+        "username": "@hydrationhero",
+        "avatarUrl": "https://example.com/avatar7.png"
+      },
+      "comment": "Another thing that helped me was adding a little chicken broth to water. My lab drinks it all up!",
+      "likes": 7,
+      "replies": []
+    },
+    {
+      "id": 105,
+      "user": {
+        "username": "@furryfam",
+        "avatarUrl": "https://example.com/avatar8.png"
+      },
+      "comment": "Great checklist! I printed this out and stuck it on our fridge for the kids to remember.",
+      "likes": 9,
+      "replies": [
+        {
+          "id": 203,
+          "user": {
+            "username": "@taleoftails",
+            "avatarUrl": "https://example.com/avatar1.png"
+          },
+          "comment": "That’s awesome to hear 🐶❤️ Hope it helps the whole fam!",
+          "likes": 4
+        }
+      ]
+    }
+  ]
+}
