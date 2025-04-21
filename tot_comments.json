@@ -1,5 +1,13 @@
 
 {
+     "selection": {
+        "id": 108,
+        "user": {
+            "username": "@Vinay Bhuwad",
+            "avatarUrl": "https://example.com/avatar1.png"
+        },
+        "question": "Which is the breed of Cat mostly found in India??"
+    },
     "post": {
       "id": 1,
       "user": {
